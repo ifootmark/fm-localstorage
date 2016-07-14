@@ -40,7 +40,7 @@ DS.clear();
 ```
 
 ##	Demo
-[demo](http://ifootmark.github.io/fm-localstorage/test/index.html)
+demo: [https://ifootmark.github.io/fm-localstorage/test/index.html](http://ifootmark.github.io/fm-localstorage/test/index.html)
 
 
 ## License
