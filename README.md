@@ -2,13 +2,13 @@
 
 ## 安装
 
-npm 安装
+执行命令
 
 `npm install --save-dev fm-localstorage`
 
 或者在 html 中直接引用
 
-`<script src="./fm-localstorage.min.js"></script>`
+`<script src="./dist/fm-localstorage.min.js"></script>`
 
 ## 使用方法
 
@@ -25,7 +25,7 @@ DS.set(key,value);
 
 ### global
 ```javascript
-<script src="./fm-localstorage.min.js"></script>
+<script src="./dist/fm-localstorage.min.js"></script>
 DS.set(key,value);
 ```
 
