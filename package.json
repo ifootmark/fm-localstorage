@@ -1,6 +1,6 @@
 {
   "name": "fm-localstorage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LocalStorage",
   "main": "index.js",
   "scripts": {
